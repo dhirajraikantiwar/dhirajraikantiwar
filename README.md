@@ -1,31 +1,52 @@
-# Hi, I'm Dhiraj Raikantiwar 👋
+<div align="center">
 
-## Data & AI Leader | Turning trusted data into better business decisions
+# Dhiraj Raikantiwar
 
-I am a Data & AI leader with 15+ years of experience across data engineering, analytics, business intelligence, enterprise information management, retail, banking, and consulting.
+### Data & AI Leader · From trusted data to better decisions
 
-I lead teams and programs that turn complex data into reliable, scalable products—combining strong data foundations, practical AI, governance, and measurable business outcomes.
+[LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [GitHub](https://github.com/dhirajraikantiwar) · [Explore my work](#featured-work)
 
-### What I work on
+</div>
 
-- Enterprise data strategy and modern data platforms
-- Data engineering, analytics, and business intelligence
-- AI-enabled decision support and automation
-- Data governance, quality, and trusted reporting
-- Product-minded delivery of complex business initiatives
+> I lead the work that turns complex, high-stakes data into reliable products, useful AI, and decisions people can trust.
 
-### Featured projects
+With 15+ years across data engineering, analytics, business intelligence, enterprise information management, retail, banking, and consulting, I bring the strategic view **and** the builder's instinct: define the problem, establish the data foundation, ship the product, and make its impact measurable.
 
-| Project | What it does | Status |
+## What I help organizations do
+
+| Build | Enable | Protect |
 |---|---|---|
-| **India Real Estate Investment Analyzer** | An evidence-led AI app that analyzes Indian flats, shops, commercial properties, and land plots using uploaded documents, public research, market comparables, financial modeling, and due-diligence signals. | In design |
-| **More projects coming soon** | Practical AI, analytics, and decision-support products built to solve real business problems. | Building |
+| Modern data platforms and decision-ready analytics | Practical AI, automation, and decision-support products | Governance, data quality, and confidence in reporting |
+| Product-minded delivery across complex business initiatives | Teams that turn strategy into usable outcomes | Responsible adoption that earns stakeholder trust |
 
-### Professional focus
+## Featured work
 
-I am especially interested in roles and collaborations involving Data & AI leadership, enterprise transformation, analytics strategy, modern data platforms, and responsible AI adoption.
+| Project | The problem it tackles | What I built | Explore |
+|---|---|---|---|
+| **Worth It? AI** | Buyers face opaque pricing, weak comparables, and misleading marketplace listings. | A live AI purchase advisor that assesses listings, images, and URLs; returns a 0–100 decision index, fair-price range, inspection checklist, and negotiation message. It combines marketplace metadata extraction, multimodal AI, localization, and a resilient multi-provider model flow. | [Live app](https://is-it-worth-it-gray.vercel.app) · [Repository](https://github.com/dhirajraikantiwar/is-it-worth-it) |
+| **India Real Estate Investment Analyzer** | Real-estate buyers need one evidence-led view of documents, comparables, financials, and due diligence. | A decision-support product in design for evaluating flats, shops, commercial property, and land through document analysis, public research, market comparison, financial modeling, and risk signals. | In development |
+| **Executive Portfolio** | A professional story should connect strategy, technical depth, and shipped work. | The foundation for a portfolio that brings that evidence together. | [Repository](https://github.com/dhirajraikantiwar/portfolio-website) |
 
-### Let’s connect
+## How I work
 
-- GitHub: [@dhirajraikantiwar](https://github.com/dhirajraikantiwar)
-- LinkedIn: [Dhiraj Raikantiwar](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/)
+**Start with the decision.** Clarify the business question and the people who need to act on it.
+
+**Make the data trustworthy.** Build for quality, governance, traceability, and scale—not just a compelling demo.
+
+**Use AI where it earns its place.** Apply AI to remove friction and improve judgment, with practical safeguards around reliability and responsible use.
+
+**Deliver something people adopt.** Connect strategy, teams, product thinking, and measurable outcomes.
+
+## Areas of focus
+
+`Data & AI Strategy` · `Modern Data Platforms` · `Data Engineering` · `Analytics & BI` · `Decision Intelligence` · `AI Enablement` · `Data Governance & Quality` · `Enterprise Transformation`
+
+## Let’s build what matters
+
+I’m interested in leadership roles and collaborations where strong data foundations, practical AI, and clear business outcomes need to come together.
+
+<div align="center">
+
+[Connect on LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [View GitHub](https://github.com/dhirajraikantiwar) · [Try Worth It? AI](https://is-it-worth-it-gray.vercel.app)
+
+</div>
