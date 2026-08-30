@@ -24,7 +24,7 @@ With 15+ years across data engineering, analytics, business intelligence, enterp
 | Project | The problem it tackles | What I built | Explore |
 |---|---|---|---|
 | **Worth It? AI** | Buyers face opaque pricing, weak comparables, and misleading marketplace listings. | A live AI purchase advisor that assesses listings, images, and URLs; returns a 0–100 decision index, fair-price range, inspection checklist, and negotiation message. It combines marketplace metadata extraction, multimodal AI, localization, and a resilient multi-provider model flow. | [Live app](https://is-it-worth-it-gray.vercel.app) · [Repository](https://github.com/dhirajraikantiwar/is-it-worth-it) |
-| **India Real Estate Investment Analyzer** | Real-estate buyers need one evidence-led view of documents, comparables, financials, and due diligence. | A decision-support product in design for evaluating flats, shops, commercial property, and land through document analysis, public research, market comparison, financial modeling, and risk signals. | In development |
+| **Valora / India Property IQ** | Property buyers need a clear, evidence-led way to assess a potential investment. | A live Maharashtra-first decision-support product that turns property inputs into a structured investment read with confidence gaps, comparable context, risk signals, and due-diligence guidance. It is clearly presented as analysis support—not a valuation or investment advice. | [Live app](https://indiaproperty-iq.lovable.app/analyze/) |
 | **Executive Portfolio** | A professional story should connect strategy, technical depth, and shipped work. | The foundation for a portfolio that brings that evidence together. | [Repository](https://github.com/dhirajraikantiwar/portfolio-website) |
 
 ## How I work
@@ -47,6 +47,6 @@ I’m interested in leadership roles and collaborations where strong data founda
 
 <div align="center">
 
-[Connect on LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [View GitHub](https://github.com/dhirajraikantiwar) · [Try Worth It? AI](https://is-it-worth-it-gray.vercel.app)
+[Connect on LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [View GitHub](https://github.com/dhirajraikantiwar) · [Try Worth It? AI](https://is-it-worth-it-gray.vercel.app) · [Explore Valora](https://indiaproperty-iq.lovable.app/analyze/)
 
 </div>
