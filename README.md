@@ -4,7 +4,7 @@
 
 ### Data & AI Leader · From trusted data to better decisions
 
-[LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [GitHub](https://github.com/dhirajraikantiwar) · [Explore my work](#featured-work)
+[Executive Portfolio](https://dhirajraikantiwar.com) · [LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [GitHub](https://github.com/dhirajraikantiwar)
 
 </div>
 
@@ -23,9 +23,9 @@ With 15+ years across data engineering, analytics, business intelligence, enterp
 
 | Project | The problem it tackles | What I built | Explore |
 |---|---|---|---|
+| **Executive Portfolio** | Senior data and AI work is best understood through decisions, systems, and outcomes—not a list of technologies. | A cinematic, evidence-led view of my leadership approach, transformation experience, products, and Executive Decision Brief series. | [Visit portfolio](https://dhirajraikantiwar.com) · [Repository](https://github.com/dhirajraikantiwar/portfolio-website) |
 | **Worth It? AI** | Buyers face opaque pricing, weak comparables, and misleading marketplace listings. | A live AI purchase advisor that assesses listings, images, and URLs; returns a 0–100 decision index, fair-price range, inspection checklist, and negotiation message. It combines marketplace metadata extraction, multimodal AI, localization, and a resilient multi-provider model flow. | [Live app](https://is-it-worth-it-gray.vercel.app) · [Repository](https://github.com/dhirajraikantiwar/is-it-worth-it) |
 | **Valora / India Property IQ** | Property buyers need a clear, evidence-led way to assess a potential investment. | A live Maharashtra-first decision-support product that turns property inputs into a structured investment read with confidence gaps, comparable context, risk signals, and due-diligence guidance. It is clearly presented as analysis support—not a valuation or investment advice. | [Live app](https://indiaproperty-iq.lovable.app/analyze/) |
-| **Executive Portfolio** | A professional story should connect strategy, technical depth, and shipped work. | The foundation for a portfolio that brings that evidence together. | [Repository](https://github.com/dhirajraikantiwar/portfolio-website) |
 
 ## How I work
 
@@ -41,12 +41,12 @@ With 15+ years across data engineering, analytics, business intelligence, enterp
 
 `Data & AI Strategy` · `Modern Data Platforms` · `Data Engineering` · `Analytics & BI` · `Decision Intelligence` · `AI Enablement` · `Data Governance & Quality` · `Enterprise Transformation`
 
-## Let’s build what matters
+## Continue the conversation
 
-I’m interested in leadership roles and collaborations where strong data foundations, practical AI, and clear business outcomes need to come together.
+I welcome thoughtful conversations with leaders building decision-ready data, practical AI, and durable enterprise capability.
 
 <div align="center">
 
-[Connect on LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [View GitHub](https://github.com/dhirajraikantiwar) · [Try Worth It? AI](https://is-it-worth-it-gray.vercel.app) · [Explore Valora](https://indiaproperty-iq.lovable.app/analyze/)
+[Visit my portfolio](https://dhirajraikantiwar.com) · [Connect on LinkedIn](https://www.linkedin.com/in/dhiraj-raikantiwar-20501715/) · [Try Worth It? AI](https://is-it-worth-it-gray.vercel.app) · [Explore Valora](https://indiaproperty-iq.lovable.app/analyze/)
 
 </div>
