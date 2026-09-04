@@ -27,6 +27,15 @@ With 15+ years across data engineering, analytics, business intelligence, enterp
 | **Worth It? AI** | Buyers face opaque pricing, weak comparables, and misleading marketplace listings. | A live AI purchase advisor that assesses listings, images, and URLs; returns a 0–100 decision index, fair-price range, inspection checklist, and negotiation message. It combines marketplace metadata extraction, multimodal AI, localization, and a resilient multi-provider model flow. | [Live app](https://is-it-worth-it-gray.vercel.app) · [Repository](https://github.com/dhirajraikantiwar/is-it-worth-it) |
 | **Valora / India Property IQ** | Property buyers need a clear, evidence-led way to assess a potential investment. | A live Maharashtra-first decision-support product that turns property inputs into a structured investment read with confidence gaps, comparable context, risk signals, and due-diligence guidance. It is clearly presented as analysis support—not a valuation or investment advice. | [Live app](https://indiaproperty-iq.lovable.app/analyze/) |
 
+## Executive briefing series
+
+Short, evidence-led briefings on the business choices behind data, AI, governance, and market performance.
+
+| Episode | Executive question | Watch |
+|---|---|---|
+| **02 · The $0 Governance Gap** | What should boards ask about AI vendor concentration and the liability gaps hidden in vendor contracts? | [Watch on LinkedIn](https://lnkd.in/p/gE-KvPMH) |
+| **01 · Target's Q2 Momentum** | What does Target's performance reveal about the decisions behind a retail turnaround? | [Watch on LinkedIn](https://lnkd.in/p/gJnXQcag) |
+
 ## How I work
 
 **Start with the decision.** Clarify the business question and the people who need to act on it.
