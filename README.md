@@ -27,6 +27,16 @@ With 15+ years across data engineering, analytics, business intelligence, enterp
 | **Worth It? AI** | Buyers face opaque pricing, weak comparables, and misleading marketplace listings. | A live AI purchase advisor that assesses listings, images, and URLs; returns a 0–100 decision index, fair-price range, inspection checklist, and negotiation message. It combines marketplace metadata extraction, multimodal AI, localization, and a resilient multi-provider model flow. | [Live app](https://is-it-worth-it-gray.vercel.app) · [Repository](https://github.com/dhirajraikantiwar/is-it-worth-it) |
 | **Valora / India Property IQ** | Property buyers need a clear, evidence-led way to assess a potential investment. | A live Maharashtra-first decision-support product that turns property inputs into a structured investment read with confidence gaps, comparable context, risk signals, and due-diligence guidance. It is clearly presented as analysis support—not a valuation or investment advice. | [Live app](https://indiaproperty-iq.lovable.app/analyze/) |
 
+## Applied AI experimentation
+
+**From experiment to outcome · Man Mein Base Balaji**
+
+A completed creative exploration across language, music, imagery and motion. I brought multiple generative capabilities together through human direction, selection and editing to produce four songs and four cinematic devotional films.
+
+The album is the proof artifact for the broader story: define the intended experience, give each capability a role, and review continuity and quality across the whole result. This demonstrates a completed creative workflow; enterprise applications require their own evaluation of reliability, governance, cost and business value.
+
+**Album release forthcoming.** [Visit my portfolio](https://dhirajraikantiwar.com)
+
 ## Executive briefing series
 
 Short, evidence-led briefings on the business choices behind data, AI, governance, and market performance.
